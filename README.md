@@ -121,4 +121,6 @@ Darknet marketplaces offer a unique shopping experience. By adhering to these se
 
 Plase contribute and add stars to this repo.
 
-Update:  Wednesday 11 June 2025
+
+
+Update:  13.06.2025 04:14 Redirects fixed
