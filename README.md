@@ -123,4 +123,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  13.06.2025 04:14 Redirects fixed
+
+
+Update: Fixed broken compatibility reference links
