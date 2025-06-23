@@ -129,4 +129,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  21.06.2025
+
+
+Update: Internal navigation
