@@ -157,4 +157,6 @@ Plase contribute and add stars to this repo.
 
 
 
-Update:  12.09.2025 404 fixes
+
+
+Update:  12.09.2025 link is operational and accessible
